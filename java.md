@@ -11,3 +11,4 @@ related:
 - springboot
 - exception
 - inherit
+- extends
