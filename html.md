@@ -1,6 +1,6 @@
 category: html
 title: html basic
-lectures: Kwang
+lectures: Woo
 related:
 
 - css
